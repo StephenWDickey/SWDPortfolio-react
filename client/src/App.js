@@ -13,19 +13,16 @@ function App() {
 
   const renderPage = () => {
     if (currentPage === 'projects') {
-      return <Projects />
+      return <Projects />;
     }
     if (currentPage === 'about') {
-      return <About />
+      return <About />;
     }
     if (currentPage === 'contact') {
-      return <Contact />
+      return <Contact />;
     }
     else if (currentPage === 'home') {
-      return <Home />
-    }
-    else {
-      return <Home />
+      return <Home />;
     }
 }
 
