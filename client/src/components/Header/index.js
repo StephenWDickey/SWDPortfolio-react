@@ -1,30 +1,27 @@
 import React from "react";
 
+import '../../App.css';
+
 const Header = ({ currentPage, handlePageChange }) => {
     return (
-      <nav className='d-grid nav-grid'>
+      <nav className='nav-container'>
         <div />
         <a href="#home"
           onClick={() => handlePageChange('home')} 
-          className={currentPage === 'home' ? 'active-nav' : ''}>
+          className="nav-elements">
           Home</a>
         <a href="#about" 
           onClick={() => handlePageChange('about')} 
-          className={currentPage === 'about' ? 'active-nav' : ''}>
+          className="nav-elements">
           About</a>
         <a href="#projects"
           onClick={() => handlePageChange('projects')} 
-          className={currentPage === 'projects' ? 'active-nav' : ''}>
+          className="nav-elements">
           Projects</a>
         <a href="#contact"
           onClick={() => handlePageChange('contact')} 
-          className={currentPage === 'contact' ? 'active-nav' : ''}>
+          className="nav-elements">
           Contact</a>
-          
-        
-  
-        
-  
         <div />
       </nav>
     )
