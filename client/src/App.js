@@ -37,7 +37,6 @@ function App() {
     <div className='page-container'>
       <header>
         <div className='d-grid header-grid'>
-          <a href='/'>Stephen W. Dickey</a>
           <Header currentPage={currentPage} handlePageChange={handlePageChange} />
         </div>
       </header>

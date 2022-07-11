@@ -94,11 +94,11 @@ header {
 
 .info {
   color: black;
-  background-color: #d3ffce;
+  background-color: white;
   padding-top: 100px;
-  padding-bottom: 100px;
   align-items: center;
   text-align: center;
+  padding-bottom: 500px;
   
   
 }
@@ -163,6 +163,7 @@ header {
 
 #contact {
   background: #d3ffce;
+  padding-bottom: 500px;
 }
 
 #contact h2{
@@ -202,4 +203,13 @@ header {
   color: white;
 }
 
+
+.footer {
+  text-align: center;
+  background: #d3ffce;
+  height: 50px;
+  padding: 10px;
+  margin: auto;
+  width: 100%;
+}
 
