@@ -4,7 +4,9 @@
 
 ## Description 
 
+Deployment: https://murmuring-ravine-42376.herokuapp.com/
 
+This week's challenge involved converting our portfolio into a SPA using React. You can find information about me, about projects i've done, and can find my contact information as well!
 
 
 ## Credits
