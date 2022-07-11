@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SWDPortfolio-react/static/css/main.833f3749.css",
+    "main.js": "/SWDPortfolio-react/static/js/main.72851eba.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/SWDPortfolio-react/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/pizza-hunt.png": "/SWDPortfolio-react/static/media/pizza-hunt.f0dc37133a237e61e65c.png",
+    "static/media/yummy-grocery.png": "/SWDPortfolio-react/static/media/yummy-grocery.dd43cdc4189cfd46b9d4.png",
+    "static/media/aimless-travel.png": "/SWDPortfolio-react/static/media/aimless-travel.46d10a62cb62f4c2bb07.png",
+    "static/media/ferns.jpg": "/SWDPortfolio-react/static/media/ferns.5a892cc09d7d07130f18.jpg",
+    "static/media/tech-blog.png": "/SWDPortfolio-react/static/media/tech-blog.17ed991376f0f2a5a33f.png",
+    "static/media/deep-thoughts.png": "/SWDPortfolio-react/static/media/deep-thoughts.14120ede44141c03d40d.png",
+    "static/media/stephen-dickey.jpg": "/SWDPortfolio-react/static/media/stephen-dickey.20afbe25f82d3222a0cf.jpg",
+    "static/media/note-taker.png": "/SWDPortfolio-react/static/media/note-taker.0725102b41cb0d04aeb9.png",
+    "index.html": "/SWDPortfolio-react/index.html",
+    "main.833f3749.css.map": "/SWDPortfolio-react/static/css/main.833f3749.css.map",
+    "main.72851eba.js.map": "/SWDPortfolio-react/static/js/main.72851eba.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/SWDPortfolio-react/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.833f3749.css",
+    "static/js/main.72851eba.js"
+  ]
+}
