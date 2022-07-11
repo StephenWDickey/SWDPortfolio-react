@@ -24,6 +24,9 @@ function App() {
     else if (currentPage === 'home') {
       return <Home />;
     }
+    else {
+      return <Home />
+    }
 }
 
   const handlePageChange = (page) => setCurrentPage(page);
